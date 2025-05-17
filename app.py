@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Sample data - in a real application, you might fetch this from a database
 portfolio_data = {
-    'name': 'Jane Doe',
+    'name': 'Puneet Vaswani',
     'title': 'Full Stack Developer',
     'bio': 'Passionate software developer with expertise in Python, JavaScript, and cloud technologies.',
     'skills': [
@@ -36,10 +36,10 @@ portfolio_data = {
         }
     ],
     'contact': {
-        'email': 'jane.doe@example.com',
-        'linkedin': 'linkedin.com/in/janedoe',
-        'github': 'github.com/janedoe',
-        'twitter': 'twitter.com/janedoe'
+        'email': 'puneetvaswani0609@example.com',
+        'linkedin': 'https://www.linkedin.com/in/puneet-v-171885310/',
+        'github': 'github.com/PunVas',
+        'twitter': 'twitter.com/PuneetVaswani'
     }
 }
 
