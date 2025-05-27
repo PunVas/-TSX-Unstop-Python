@@ -2,7 +2,6 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-# Sample data - in a real application, you might fetch this from a database
 portfolio_data = {
     'name': 'Puneet Vaswani',
     'title': 'Full Stack Developer',
